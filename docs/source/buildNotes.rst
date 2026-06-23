@@ -24,36 +24,36 @@ This site will follow a weekly update schedule. Updates will be pushed and the b
      - Delivery Date
    * - Module 0: Introduction to Scientific Computing
      - Python basics, loops, data handling
-     - **Final:** 09/12/25
+     - **Final:** 10/17/25
    * - Module 1: Introduction to Biological Modeling
      - The Modeling Workflow, Identifying meaningful hypothesis, model abstraction
-     - **Final:** 09/12/25
+     - **Final:** 10/17/25
    * - Module 2: Building Mathematical Models
      - ODE Modeling, PDE Solution approaches and finite difference method, common equation types
-     - **Final:** 09/12/25 
+     - **Final:** 10/17/25 
    * - Module 3: Converting Math To Code
      - Executing equations in code, model specification and parameterization, common simulation methodologies
-     - **Final:** 09/12/25
+     - **Final:** 10/17/25
    * - Module 4: Data Analysis
      - Managing and cleaning data, visualization, model fitting, statistical methods
-     - **Draft:** 09/12/25 
+     - **Draft:** 10/24/25 
    * - Module 5: Validity, Reliability, and Optimization
      - Validation vs verification, methods, pairing models with experiment, model optimization
-     - **Draft:** 09/19/25 
+     - **Draft:** 10/10/25 
    * - Module 6: Best Practices
      - Suggested best practices for building successful models. What to anticipate during model setup, how to choose parameters from literature, common debugging strategies, and more.
-     - **Draft:** 09/26/25
+     - **Draft:** 10/31/25
    * - Module 7: Biological background
      - Biological background information needed to do the worked examples, summary exercises, and projects
-     - **Draft:** 10/17/25
+     - **Draft:** 10/31/25
    * - Module 8: Worked Examples
      - 
-     - **Draft:** 10/03/25
+     - **Draft:** 10/31/25
    * - Module 9: Summary Exercises
      - 
-     - **Draft:** 10/17/25
+     - **Draft:** 10/31/25
    * - Module 10: Projects
      - 
-     - **Draft:** 10/24/25
+     - **Draft:** 10/31/25
      
-**Last Updated: 09/05/25**
+**Last Updated: 10/10/25**
